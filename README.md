@@ -6,7 +6,7 @@ The project demonstrates a complete database development pipeline: from conceptu
 
 ---
 
-## 🚗 Core Functionality
+## Core Functionality
 - Manage customers, vehicles, and categories
 - Register bookings and calculate rental cost
 - Handle payments linked to bookings
@@ -16,7 +16,7 @@ The project demonstrates a complete database development pipeline: from conceptu
 
 ---
 
-## 🛠️ SQL & DBMS Features Used
+## SQL & DBMS Features Used
 ✔ MariaDB  
 ✔ Normalized relational schema with keys & constraints  
 ✔ Realistic seeded dataset  
@@ -27,7 +27,7 @@ The project demonstrates a complete database development pipeline: from conceptu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 vehicle-rental-db-system/
 ├─ scripts/
@@ -40,7 +40,7 @@ vehicle-rental-db-system/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 Run in MariaDB (or MySQL-compatible environment):
 
 ```sql
@@ -57,19 +57,19 @@ CALL createBookingWithPayment(2, 5, CURDATE(), DATE_ADD(CURDATE(), INTERVAL 4 DA
 
 ---
 
-## 📄 Documentation
+## Documentation
 For the full ER diagram, schema design explanation, and implementation report, see:  
-📁 [Vehicle_Rental_Database_Final_Report.pdf](docs/Vehicle_Rental_Database_Final_Report.pdf)
+[Vehicle_Rental_Database_Final_Report.pdf](docs/Vehicle_Rental_Database_Final_Report.pdf)
 
 ---
 
-## 👥 Team
+## Team
 
 Antonijs Bolsakovs · Adrian Ursu · Andrej Kitanovski · Niclas Søe Irsbøl · Viktor Manuel Guijarro
 
 ---
 
-## 🚀 Future improvements
+## Future improvements
 - Add views & indexes for analytics  
 - Introduce return flow & maintenance scheduling  
 - Implement transactional logic & ACID-level operations  
