@@ -58,9 +58,8 @@ CALL createBookingWithPayment(2, 5, CURDATE(), DATE_ADD(CURDATE(), INTERVAL 4 DA
 ---
 
 ## 📄 Documentation
-
-For ER diagram, schema explanation, and implementation report, see:
-📁 docs/Vehicle_Rental_Database_Final_Report.pdf
+For the full ER diagram, schema design explanation, and implementation report, see:  
+📁 [Vehicle_Rental_Database_Final_Report.pdf](docs/Vehicle_Rental_Database_Final_Report.pdf)
 
 ---
 
@@ -70,7 +69,7 @@ Antonijs Bolsakovs · Adrian Ursu · Andrej Kitanovski · Niclas Søe Irsbøl ·
 
 ---
 
-## 🚀 Optional Future Enhancements
+## 🚀 Future improvements
 - Add views & indexes for analytics  
 - Introduce return flow & maintenance scheduling  
 - Implement transactional logic & ACID-level operations  
