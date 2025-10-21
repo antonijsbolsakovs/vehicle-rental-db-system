@@ -66,12 +66,12 @@ For ER diagram, schema explanation, and implementation report, see:
 
 ## 👥 Team
 
-Adrian Ursu · Antonijs Bolsakovs · Andrej Kitanovski · Niclas Søe Irsbøl · Viktor Manuel Guijarro
+Antonijs Bolsakovs · Adrian Ursu · Andrej Kitanovski · Niclas Søe Irsbøl · Viktor Manuel Guijarro
 
 ---
 
 ## 🚀 Optional Future Enhancements
-	•	Add views & indexes for analytics
-	•	Introduce return flow & maintenance scheduling
-	•	Implement transactional logic & ACID-level operations
-	•	Extend backend integration (e.g., REST API layer)
+- Add views & indexes for analytics  
+- Introduce return flow & maintenance scheduling  
+- Implement transactional logic & ACID-level operations  
+- Extend backend integration (e.g., REST API layer)
