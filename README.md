@@ -17,13 +17,13 @@ The project demonstrates a complete database development pipeline: from conceptu
 ---
 
 ## SQL & DBMS Features Used
-✔ MariaDB  
-✔ Normalized relational schema with keys & constraints  
-✔ Realistic seeded dataset  
-✔ SQL queries (JOIN, GROUP BY, IN)  
-✔ User-defined functions  
-✔ Stored procedure for automated booking + payment insertion  
-✔ Trigger for updating vehicle availability  
+- MariaDB  
+- Normalized relational schema with keys & constraints  
+- Realistic seeded dataset  
+- SQL queries (JOIN, GROUP BY, IN)  
+- User-defined functions  
+- Stored procedure for automated booking + payment insertion  
+- Trigger for updating vehicle availability  
 
 ---
 
